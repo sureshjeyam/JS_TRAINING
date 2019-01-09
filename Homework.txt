@@ -1,0 +1,17 @@
+09 Jan 2019 :
+//Learn - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+Read ES6 concepts symbols
+Primitive Data Types - Folder
+	- String
+	- NUmber
+	- Boolean
+	- null
+	- undefined
+	- Symbol
+Object
+	- Literal
+	- Object Constructor
+	- Object  JS - Learn all the properties
+
+08 Jan 2019 :
+	Var and Let
